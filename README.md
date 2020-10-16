@@ -16,8 +16,6 @@ The questions we were trying to answer:
 
 I also provided data visualisations on question number 1, 2 and 4 using Python Matplotlib. 
 
-The findings of this project is presented in the PowerPoint file.
-
 Feel free to download these files for a sneak peek how I approached this project
 
 Kind Regards,
